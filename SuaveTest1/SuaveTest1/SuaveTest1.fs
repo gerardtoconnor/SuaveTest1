@@ -2,4 +2,4 @@ open Suave                 // always open suave
 open Suave.Successful      // for OK-result
 open Suave.Web             // for config
 
-startWebServer defaultConfig (OK "Hello World! new2!!")
+startWebServer defaultConfig (OK "Hello World! new 23!!")
